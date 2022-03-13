@@ -11,7 +11,7 @@ Authentication Server Phase 3: Role Based Access Control  Being able to login is
    [Actions](https://github.com/marah-jaradat/basic-auth/actions)
 
 **2. The Pull request:**
-   [pull request](https://github.com/marah-jaradat/basic-auth/pull/3)
+   [pull request](https://github.com/marah-jaradat/auth-api/pulls)
 
 **3. Heroku link**
     [deploy-main](https://basic-auth-marah.herokuapp.com/)
